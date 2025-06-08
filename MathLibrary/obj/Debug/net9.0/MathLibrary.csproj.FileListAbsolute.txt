@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\Meriam\MathLibrary\bin\Debug\net9.0\MathLibrary.deps.json
+C:\Users\ASUS\Desktop\Meriam\MathLibrary\bin\Debug\net9.0\MathLibrary.dll
+C:\Users\ASUS\Desktop\Meriam\MathLibrary\bin\Debug\net9.0\MathLibrary.pdb
+C:\Users\ASUS\Desktop\Meriam\MathLibrary\obj\Debug\net9.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Meriam\MathLibrary\obj\Debug\net9.0\MathLibrary.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Meriam\MathLibrary\obj\Debug\net9.0\MathLibrary.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Meriam\MathLibrary\obj\Debug\net9.0\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Meriam\MathLibrary\obj\Debug\net9.0\MathLibrary.sourcelink.json
+C:\Users\ASUS\Desktop\Meriam\MathLibrary\obj\Debug\net9.0\MathLibrary.dll
+C:\Users\ASUS\Desktop\Meriam\MathLibrary\obj\Debug\net9.0\refint\MathLibrary.dll
+C:\Users\ASUS\Desktop\Meriam\MathLibrary\obj\Debug\net9.0\MathLibrary.pdb
+C:\Users\ASUS\Desktop\Meriam\MathLibrary\obj\Debug\net9.0\ref\MathLibrary.dll
